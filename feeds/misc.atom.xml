@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>@rahulpyd - misc</title><link href="https://rahulpyd.github.io/" rel="alternate"></link><link href="https://rahulpyd.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://rahulpyd.github.io/</id><updated>2010-12-03T10:20:00+01:00</updated><entry><title>My First Review</title><link href="https://rahulpyd.github.io/my-first-review.html" rel="alternate"></link><published>2010-12-03T10:20:00+01:00</published><updated>2010-12-03T10:20:00+01:00</updated><author><name>Rahul</name></author><id>tag:rahulpyd.github.io,2010-12-03:/my-first-review.html</id><content type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;
+&lt;p&gt;This is a test. &lt;/p&gt;
+&lt;p&gt;This is a test.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
