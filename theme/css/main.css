@@ -16,6 +16,7 @@ License: none (public domain)
     --info-bg-color: var(--code-gb-color);
    */
     --main-bg-color: #000000;
+    --main-bg-color2: #2A2A2A;
     --code-bg-color: #090909;
     --accent-color: #C7254E;
     --tab-bg-hover: var(--code-bg-color);
@@ -128,8 +129,29 @@ table {
     width: 100%;
     margin: 1em 0;
 }
+
+/*
 thead {
     border-bottom: 1px solid black;
+}
+*/
+
+thead {
+    text-align: left;
+    font-weight: bold;
+}
+
+tr {
+    padding: 0 10px;
+}
+
+tr:nth-child(even) {
+    background-color: var(--main-bg-color2);
+}
+       
+
+th, td {
+    padding: 0.25em;
 }
 
 .avatar {
